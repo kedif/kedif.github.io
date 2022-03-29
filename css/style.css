@@ -1,0 +1,50 @@
+.nav-item {
+    font-size: 20px;
+    font-weight: bolder;
+}
+.navbar-brand {
+    font-size: 45px;
+    font-weight: bolder;
+    
+}
+.nav-item a:hover {
+    background-color: brown;
+
+}
+.navbar-brand a:hover {
+    background-color: brown;
+    color: red;
+}
+.container-fluid {
+    color: blue;
+    padding-bottom: 2em;
+    padding-top: 2em;
+}
+
+#jumbotron1 {
+    background-image: url(https://images.unsplash.com/photo-1542384774189-f7bb61c9f5cb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80);
+    
+    height: 60vh;
+    font-size: medium;
+    font-family: lobetser;
+    margin-top: 0%;
+    background-repeat: no-repeat;
+    background-size: cover;   
+       
+}
+#jumbotron2 {
+    background-image: url(https://images.unsplash.com/photo-1471967183320-ee018f6e114a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80) ;
+
+    height: 50vh;
+    font-size: medium;
+    font-family: lobester;
+    margin-top: 0%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.jumbotron3 {
+    font-size: 180%;
+    font-weight: bolder;
+    font-family: lobester;
+    
+}
